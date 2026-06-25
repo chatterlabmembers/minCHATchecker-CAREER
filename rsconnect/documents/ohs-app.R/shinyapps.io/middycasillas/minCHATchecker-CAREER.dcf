@@ -1,0 +1,12 @@
+name: minCHATchecker-CAREER
+title: minCHATchecker-CAREER
+username: middycasillas
+account: middycasillas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17551368
+bundleId: 12178187
+url: https://middycasillas.shinyapps.io/minCHATchecker-CAREER/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
