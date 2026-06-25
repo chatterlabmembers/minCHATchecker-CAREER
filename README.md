@@ -18,6 +18,10 @@ It is up to you humans to fix those as needed! This is just a tool to help annot
 1. Open the .eaf file you want to check in ELAN. Export the .eaf file as a tab-delimited text file (`File > Export As > Tab-delimited text`. When you do this, make sure that you are only selecting *speaker and their dependent tiers* and using the correct *time format* (ms)); see figure below.
     * ELAN will likely ask you to find the media (e.g., .wav) file. Select `Cancel` and proceed unless you want to listen to the media while checking for formatting errors. You can also add the media file back later by going to  `Edit > Linked Files...` and adding it there.
     * When you click to export the .txt file it will ask you about encoding: the default setting of `UTF-8` is the correct one for our tool.
+  
+<p align="center"> 
+<img src="txt-export-page.png" alt="txt-export-page" width="300"/>
+</p>
 
 2. Go to [OHS transcription error spotter](https://middycasillas.shinyapps.io/minCHATchecker-CAREER/).
 
